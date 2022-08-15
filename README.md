@@ -16,9 +16,14 @@ Example:
 The answers to the following questions will be answered by using SQL queries:
 
 1) Evaluating the median severity value of accidents caused by various Motorcycles.
-2) Evaluating the Accident Severity and Total Accidents per Vehicle Type.
+2) Evaluating the Average Accident Severity and Total Accidents per Vehicle Type.
 3) Calculating the Average Severity by vehicle type?
 4) Calculating the Average Severity and Total Accidents by Motorcyclee.
 
+The Answers to these questions are as follows:
 
+1)
 
+2) Average Accident Severity and Total Accidents per Vehicle Type:
+
+<img width="698" alt="image" src="https://user-images.githubusercontent.com/111077764/184574274-a027da93-5d7b-4e7d-a76c-216d5b81f2a6.png">
