@@ -27,3 +27,5 @@ The Answers to these questions are as follows:
 2) Average Accident Severity and Total Accidents per Vehicle Type:
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/111077764/184574274-a027da93-5d7b-4e7d-a76c-216d5b81f2a6.png">
+
+##
